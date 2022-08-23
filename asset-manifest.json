@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-map-react-poc/static/css/main.4b5cff8f.css",
+    "main.js": "/google-map-react-poc/static/js/main.32cd8248.js",
+    "static/js/787.8225bdf3.chunk.js": "/google-map-react-poc/static/js/787.8225bdf3.chunk.js",
+    "index.html": "/google-map-react-poc/index.html",
+    "main.4b5cff8f.css.map": "/google-map-react-poc/static/css/main.4b5cff8f.css.map",
+    "main.32cd8248.js.map": "/google-map-react-poc/static/js/main.32cd8248.js.map",
+    "787.8225bdf3.chunk.js.map": "/google-map-react-poc/static/js/787.8225bdf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5cff8f.css",
+    "static/js/main.32cd8248.js"
+  ]
+}
